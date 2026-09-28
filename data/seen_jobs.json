@@ -9,6 +9,11 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer II, AWS Catalog"
  },
+ "amazon:amazon:10532360": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, PostX - APEX"
+ },
  "amazon:amazon:10532746": {
   "company": "Amazon",
   "first_seen": "2026-09-28",
@@ -23,6 +28,21 @@
   "company": "Amazon",
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, EC2 Nitro, EC2 Local Instance Store"
+ },
+ "amazon:amazon:10534988": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "SDE II EC2 Nitro, EC2 Nitro"
+ },
+ "amazon:amazon:10535019": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer -Control Plane, AWS Scalable Intent Driven Routing (SIDR)"
+ },
+ "amazon:amazon:10536489": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer - Gen AI, Connect (AI Agent)"
  },
  "amazon:amazon:10536714": {
   "company": "Amazon",
@@ -74,6 +94,11 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Agentic Workspaces"
  },
+ "amazon:amazon:10544003": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, 3P Measurement Tech"
+ },
  "amazon:amazon:10544074": {
   "company": "Amazon",
   "first_seen": "2026-09-28",
@@ -94,6 +119,11 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team"
  },
+ "amazon:amazon:10552157": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon WorkSpaces Applications"
+ },
  "amazon:amazon:10552602": {
   "company": "Amazon",
   "first_seen": "2026-09-28",
@@ -109,6 +139,16 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency"
  },
+ "amazon:amazon:10555703": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, 3P Measurement Tech"
+ },
+ "amazon:amazon:10555776": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) - Tax & Promotions"
+ },
  "amazon:amazon:10556318": {
   "company": "Amazon",
   "first_seen": "2026-09-28",
@@ -119,10 +159,30 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, AWS Athena and Glue ETL"
  },
+ "amazon:amazon:10557210": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer II, PXT, HAIEX"
+ },
  "amazon:amazon:10558206": {
   "company": "Amazon",
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Ads Experience Framework"
+ },
+ "amazon:amazon:10558787": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer II, Agentic WorkSpaces Client"
+ },
+ "amazon:amazon:10559049": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Shopping Videos (Ads)"
+ },
+ "amazon:amazon:10559220": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AWS Industries - Telecom Industry"
  },
  "amazon:amazon:10559511": {
   "company": "Amazon",
@@ -149,6 +209,31 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Sponsored Products and Brands"
  },
+ "amazon:amazon:10560707": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Quick"
+ },
+ "amazon:amazon:10561581": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer"
+ },
+ "amazon:amazon:10561978": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Quick"
+ },
+ "amazon:amazon:10562411": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Shopping Videos (Ads)"
+ },
+ "ashby:applied:6b7aacaa-32e3-4d58-93e6-7d7068f44617": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Onboard Maps and State Estimation"
+ },
  "ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41": {
   "company": "Applied Intuition",
   "first_seen": "2026-09-28",
@@ -158,6 +243,11 @@
   "company": "Applied Intuition",
   "first_seen": "2026-09-28",
   "title": "Software Engineer - Real-Time Vehicle Telemetry & Visualization"
+ },
+ "ashby:applied:ccee2574-f12a-4a0c-bc57-427a34d6d59b": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Onboard Maps"
  },
  "ashby:applied:d6582737-8d9d-4747-a7a2-92df0b3eda91": {
   "company": "Applied Intuition",
@@ -208,6 +298,11 @@
   "company": "OpenAI",
   "first_seen": "2026-09-28",
   "title": "Software Engineer, API Frontiers"
+ },
+ "ashby:openai:c5f39beb-dc8a-4f43-a156-28754d306f64": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Operating Systems Engineer, Connectivity & Networking | Consumer Devices"
  },
  "ashby:openai:e7a4ee23-138a-4004-916e-72a452e7d115": {
   "company": "OpenAI",
@@ -294,6 +389,11 @@
   "first_seen": "2026-09-28",
   "title": "Product Engineer"
  },
+ "ashby:worldlabs:a377b6b8-f335-452c-82f9-8cdb9d08a745": {
+  "company": "World Labs",
+  "first_seen": "2026-09-28",
+  "title": "Rendering Systems Engineer - Simulation & Synthetic Data"
+ },
  "ashby:writer:40021ec1-fc21-4230-8d95-0eca8fd51bec": {
   "company": "Writer",
   "first_seen": "2026-09-28",
@@ -359,6 +459,11 @@
   "first_seen": "2026-09-28",
   "title": "Software Engineer III, Infrastructure, Google Cloud Performance"
  },
+ "google:google:134896932572013254": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Pixel Audio"
+ },
  "google:google:137243138988090054": {
   "company": "Google",
   "first_seen": "2026-09-28",
@@ -419,10 +524,20 @@
   "first_seen": "2026-09-28",
   "title": "Software Engineer, Serverless Networking"
  },
+ "google:google:90333510476145350": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Anti-distillation Investigations, Enforcements and Infrastructure, DeepMind"
+ },
  "google:google:91223711167718086": {
   "company": "Google",
   "first_seen": "2026-09-28",
   "title": "Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions"
+ },
+ "google:google:92679765210604230": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Applied Research, YouTube Languages Capabilities"
  },
  "google:google:95014539497480902": {
   "company": "Google",
@@ -573,6 +688,11 @@
   "company": "Shield AI",
   "first_seen": "2026-09-28",
   "title": "Generative AI Application Engineer, Learning & Development (R5856)"
+ },
+ "lever:zoox:6da52aa7-0ccb-48d0-af25-0889f41ddee5": {
+  "company": "Zoox",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Robot Software Infrastructure"
  },
  "lever:zoox:978e36ef-e8e9-4874-ade6-f33a80e46309": {
   "company": "Zoox",

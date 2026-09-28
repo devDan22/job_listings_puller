@@ -445,7 +445,7 @@ def render_report(new_jobs, stats, failures, today):
     lines.append("")
     lines.append("Filters: mid-level SWE titles · California or New York · salary range tops out "
                  f"at ≥ {fmt_money(stats['min_salary'])} · posted within {stats['max_age']} days · "
-                 "ranked by overlap with TypeScript/React/Node + backend/infra skills.")
+                 "ranked by overlap with C++, TypeScript/React/Node + backend/infra skills.")
     lines.append("")
     if not new_jobs:
         lines.append("_No new matching postings today._")

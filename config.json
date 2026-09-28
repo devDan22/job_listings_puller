@@ -72,6 +72,7 @@
   ],
 
   "skill_keywords": {
+    "C++": "(?<![\\w+])c\\+\\+|\\bcpp\\b",
     "TypeScript": "\\btypescript\\b",
     "JavaScript": "\\bjavascript\\b",
     "React": "\\breact(\\.js|js)?\\b",
