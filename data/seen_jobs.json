@@ -1,0 +1,307 @@
+{
+ "ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Robot Infrastructure Engineer - Collection Tooling"
+ },
+ "ashby:applied:99e36fcf-c027-403b-a926-8b73b6b9e2a6": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Real-Time Vehicle Telemetry & Visualization"
+ },
+ "ashby:applied:d6582737-8d9d-4747-a7a2-92df0b3eda91": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Data Pipeline"
+ },
+ "ashby:applied:f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104": {
+  "company": "Applied Intuition",
+  "first_seen": "2026-09-28",
+  "title": "Full-Stack Software Engineer -  Command & Control"
+ },
+ "ashby:mercor:415d2ee3-44b9-40e5-ab4b-04340faa3872": {
+  "company": "Mercor",
+  "first_seen": "2026-09-28",
+  "title": "Data Platform Engineer"
+ },
+ "ashby:openai:40f2f959-20f8-40ca-8b8c-154b6774193a": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Compute Foundations"
+ },
+ "ashby:openai:4923fd3e-acf2-4551-91ad-5a92ca81455b": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Healthcare"
+ },
+ "ashby:openai:56d541d3-02b5-44d8-b40b-4df72cdd0405": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, AI for Chip Design"
+ },
+ "ashby:openai:7caed1e8-c6f6-4569-9d45-2d7a7a56a025": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Search Infrastructure"
+ },
+ "ashby:openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, DevOps"
+ },
+ "ashby:openai:ac442f1f-c0d2-4608-a155-bfc89190e01c": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Fullstack Software Engineer, Child Safety Tools & Systems"
+ },
+ "ashby:openai:b6a86e39-8059-4ccf-8d33-1bf5bd92fa86": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, API Frontiers"
+ },
+ "ashby:openai:e7a4ee23-138a-4004-916e-72a452e7d115": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-28",
+  "title": "Backend Software Engineer, ChatGPT ImageGen"
+ },
+ "ashby:poshmark:22fe890a-5c2c-4133-a91c-2e82348bc5d8": {
+  "company": "Poshmark",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer II, Cloud Platform"
+ },
+ "ashby:ramp:7cd46077-05fe-4cd7-816f-5528638342f1": {
+  "company": "Ramp",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Frontend, Growth"
+ },
+ "ashby:rogo:04777127-53d6-49cb-9372-4332280857a1": {
+  "company": "Rogo",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer: Platform"
+ },
+ "ashby:rogo:46da838e-af45-4cb9-bb15-d1818613a876": {
+  "company": "Rogo",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer: Fullstack"
+ },
+ "ashby:rogo:fd7cecdb-5ae4-494f-a2e1-fd310398efaf": {
+  "company": "Rogo",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer: Financial Data"
+ },
+ "ashby:sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent - Financial Services"
+ },
+ "ashby:sierra:87f2a303-c2a1-484e-9e4b-efdcaafa440e": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Horizon"
+ },
+ "ashby:sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent - Insurance"
+ },
+ "ashby:sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent - Travel & Hospitality"
+ },
+ "ashby:sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent - Healthcare"
+ },
+ "ashby:sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f": {
+  "company": "Sierra",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent - Tech, Media & Telecom"
+ },
+ "ashby:snowflake:6e96b818-2350-4601-8bdd-7ddd6c4a5f6d": {
+  "company": "Snowflake",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Postgres"
+ },
+ "ashby:snowflake:a51a1e30-94ec-4550-b39f-90ef328dfa87": {
+  "company": "Snowflake",
+  "first_seen": "2026-09-28",
+  "title": "Fullstack Engineer - Marketplace"
+ },
+ "ashby:thinkingmachines:cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2": {
+  "company": "Thinking Machines Lab",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Sandboxing"
+ },
+ "ashby:thumbtack:f8e13e37-c559-49e1-9b52-5871ce5cf2ae": {
+  "company": "Thumbtack",
+  "first_seen": "2026-09-28",
+  "title": "Full-Stack Engineer, AI Platform"
+ },
+ "ashby:worldlabs:9a1f90f1-660b-48bb-825a-e546d402e17f": {
+  "company": "World Labs",
+  "first_seen": "2026-09-28",
+  "title": "Product Engineer"
+ },
+ "ashby:writer:40021ec1-fc21-4230-8d95-0eca8fd51bec": {
+  "company": "Writer",
+  "first_seen": "2026-09-28",
+  "title": "Software engineer, agents"
+ },
+ "ashby:writer:699a2c97-5273-4954-a92a-a2ccee95c95e": {
+  "company": "Writer",
+  "first_seen": "2026-09-28",
+  "title": "Software engineer, connectors & MCP"
+ },
+ "ashby:writer:95b50afd-4996-4623-ae1c-602fe04b2777": {
+  "company": "Writer",
+  "first_seen": "2026-09-28",
+  "title": "Software engineer, generative AI"
+ },
+ "ashby:writer:d22a420f-786e-4c66-8846-c77878483cd5": {
+  "company": "Writer",
+  "first_seen": "2026-09-28",
+  "title": "Infrastructure engineer"
+ },
+ "greenhouse:abnormalsecurity:7992780003": {
+  "company": "Abnormal Security",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer II - Insider Risk"
+ },
+ "greenhouse:andurilindustries:5131034007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Maritime"
+ },
+ "greenhouse:andurilindustries:5242907007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Discovery"
+ },
+ "greenhouse:andurilindustries:5244194007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Surface Dominance"
+ },
+ "greenhouse:andurilindustries:5244366007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Strategic Defense"
+ },
+ "greenhouse:andurilindustries:5244590007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Space Systems Test"
+ },
+ "greenhouse:andurilindustries:5247868007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Strategic Defense"
+ },
+ "greenhouse:andurilindustries:5249750007": {
+  "company": "Anduril",
+  "first_seen": "2026-09-28",
+  "title": "Mission Software Engineer, Mission Systems"
+ },
+ "greenhouse:anthropic:5421263008": {
+  "company": "Anthropic",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Tokens and Prompt Structures"
+ },
+ "greenhouse:discord:8642213002": {
+  "company": "Discord",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Notifications"
+ },
+ "greenhouse:discord:8806163002": {
+  "company": "Discord",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Distributed Systems"
+ },
+ "greenhouse:discord:8823881002": {
+  "company": "Discord",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Safety Processing"
+ },
+ "greenhouse:discord:8846732002": {
+  "company": "Discord",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Consumer Revenue"
+ },
+ "greenhouse:doordashusa:8180903": {
+  "company": "DoorDash",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Cloud Infrastructure"
+ },
+ "greenhouse:doordashusa:8191134": {
+  "company": "DoorDash",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Storage - Distributed Caching"
+ },
+ "greenhouse:doordashusa:8212984": {
+  "company": "DoorDash",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer"
+ },
+ "greenhouse:doordashusa:8224641": {
+  "company": "DoorDash",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Backend - Autonomous Delivery Platform"
+ },
+ "greenhouse:figma:6201407004": {
+  "company": "Figma",
+  "first_seen": "2026-09-28",
+  "title": "Data Platform Engineer"
+ },
+ "greenhouse:nextdoor:8198165": {
+  "company": "Nextdoor",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Fullstack"
+ },
+ "greenhouse:nextdoor:8198185": {
+  "company": "Nextdoor",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Fullstack"
+ },
+ "greenhouse:pinterest:8213988": {
+  "company": "Pinterest",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer II, Data Analytics & Engineering"
+ },
+ "greenhouse:roblox:8171506": {
+  "company": "Roblox",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Engine Infrastructure"
+ },
+ "greenhouse:vercel:6195280004": {
+  "company": "Vercel",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Platform"
+ },
+ "greenhouse:vercel:6199608004": {
+  "company": "Vercel",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agentic Infrastructure"
+ },
+ "greenhouse:vercel:6207796004": {
+  "company": "Vercel",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Scheduled Tasks"
+ },
+ "lever:palantir:a576c5ef-2a51-4522-9c98-bca5ac2abbb3": {
+  "company": "Palantir",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer \u2013 Query Engines"
+ },
+ "lever:shieldai:ac228821-b2f8-4155-a119-b05e16ebaefe": {
+  "company": "Shield AI",
+  "first_seen": "2026-09-28",
+  "title": "Generative AI Application Engineer, Learning & Development (R5856)"
+ },
+ "lever:zoox:978e36ef-e8e9-4874-ade6-f33a80e46309": {
+  "company": "Zoox",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer - Pipeline Infrastructure & Integration"
+ }
+}
