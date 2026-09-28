@@ -6,6 +6,8 @@
   "title_include": [
     "software engineer",
     "software developer",
+    "software development engineer",
+    "\\bsde\\b",
     "\\bswe\\b",
     "member of technical staff",
     "(backend|back-end|back end|full[- ]?stack|frontend|front-end|front end|platform|infrastructure|product|web|api|application|systems|distributed systems|cloud|developer tools|devtools) engineer"
@@ -19,7 +21,7 @@
     "\\b(contract|contractor|temporary|part[- ]time)\\b",
     "\\b(ios|android|mobile|embedded|firmware|hardware|fpga|asic|silicon|rf|robotics|autonomy|perception)\\b",
     "\\b(machine learning|ml|ai research|research scientist|scientist|data engineer|data scientist|analytics engineer)\\b",
-    "\\b(security|sre|site reliability|qa|sdet|solutions|sales|forward deployed)\\b"
+    "\\b(security|sre|site reliability|qa|sdet|solutions|sales|forward deployed|field)\\b"
   ],
 
   "location_patterns": [

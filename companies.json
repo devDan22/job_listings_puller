@@ -1,5 +1,20 @@
 [
  {
+  "name": "Amazon",
+  "ats": "amazon",
+  "slug": "amazon"
+ },
+ {
+  "name": "Google",
+  "ats": "google",
+  "slug": "google"
+ },
+ {
+  "name": "Microsoft",
+  "ats": "microsoft",
+  "slug": "microsoft"
+ },
+ {
   "name": "1Password",
   "ats": "ashby",
   "slug": "1password"

@@ -1,4 +1,154 @@
 {
+ "amazon:amazon:10531826": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer II, AWS WorkSpaces, AWS WorkSpaces Control Plane Backend"
+ },
+ "amazon:amazon:10532170": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer II, AWS Catalog"
+ },
+ "amazon:amazon:10532746": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Data Platform & Analytics - ART19"
+ },
+ "amazon:amazon:10534469": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer II, Athena Engine Front End"
+ },
+ "amazon:amazon:10534987": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, EC2 Nitro, EC2 Local Instance Store"
+ },
+ "amazon:amazon:10536714": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, 3PX Analytics & Insights"
+ },
+ "amazon:amazon:10537085": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Sponsored Products and Brands"
+ },
+ "amazon:amazon:10537393": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AI Studios Engineering"
+ },
+ "amazon:amazon:10537794": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Sponsored Products and Brands"
+ },
+ "amazon:amazon:10537818": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Optics"
+ },
+ "amazon:amazon:10538018": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AWS Intent Driven Networking (AIDN)"
+ },
+ "amazon:amazon:10538461": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Music, Partner Payments & Reporting"
+ },
+ "amazon:amazon:10541530": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AI Studios Engineering"
+ },
+ "amazon:amazon:10541540": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AI Studios Engineering"
+ },
+ "amazon:amazon:10541943": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Agentic Workspaces"
+ },
+ "amazon:amazon:10544074": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance"
+ },
+ "amazon:amazon:10544200": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer , AWS Kubernetes (K8s), AWS Kubernetes"
+ },
+ "amazon:amazon:10544575": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AWS Marketplace"
+ },
+ "amazon:amazon:10547170": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team"
+ },
+ "amazon:amazon:10552602": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Amazon Connect Telecom Engineering"
+ },
+ "amazon:amazon:10552752": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer III, AWS Sagemaker Unified Studio"
+ },
+ "amazon:amazon:10555428": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency"
+ },
+ "amazon:amazon:10556318": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer II"
+ },
+ "amazon:amazon:10557046": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, AWS Athena and Glue ETL"
+ },
+ "amazon:amazon:10558206": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Ads Experience Framework"
+ },
+ "amazon:amazon:10559511": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances"
+ },
+ "amazon:amazon:10559512": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances"
+ },
+ "amazon:amazon:10559513": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances"
+ },
+ "amazon:amazon:10559515": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances"
+ },
+ "amazon:amazon:10559549": {
+  "company": "Amazon",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer, Sponsored Products and Brands"
+ },
  "ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41": {
   "company": "Applied Intuition",
   "first_seen": "2026-09-28",
@@ -164,6 +314,126 @@
   "first_seen": "2026-09-28",
   "title": "Infrastructure engineer"
  },
+ "google:google:100310324367762118": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Google Cloud Networking"
+ },
+ "google:google:112112894497170118": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Fuchsia WLAN Core"
+ },
+ "google:google:113517396047602374": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Storage Analytics"
+ },
+ "google:google:114956454904898246": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Photos Core Data and Server"
+ },
+ "google:google:118668882901639878": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Google Cloud Storage Efficiency"
+ },
+ "google:google:122882465936089798": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Database Internals, AlloyDB"
+ },
+ "google:google:126239137496736454": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Cloud Platforms and Infrastructure Engineer, TPU/GPU"
+ },
+ "google:google:127788813236740806": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Agent Cloud Rate Limiting"
+ },
+ "google:google:131985274384065222": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Google Cloud Performance"
+ },
+ "google:google:137243138988090054": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Google Workspace"
+ },
+ "google:google:138160480651748038": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Home Virtualization"
+ },
+ "google:google:138249054688551622": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Semantic Understanding, Search Ads Personalization"
+ },
+ "google:google:141600542223672006": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Diags Infrastructure"
+ },
+ "google:google:143697701739864774": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Geo"
+ },
+ "google:google:75227853871817414": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, API Proxy, One Platform"
+ },
+ "google:google:76658205756662470": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Platforms and Devices"
+ },
+ "google:google:80133199371346630": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Network Connectivity Center"
+ },
+ "google:google:81218190788436678": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Google Kubernetes Engine"
+ },
+ "google:google:83336424635409094": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Internet Egress Traffic Engineering"
+ },
+ "google:google:85418857782485702": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, GDC Networking, Google Cloud"
+ },
+ "google:google:86779871715304134": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Serverless Networking"
+ },
+ "google:google:91223711167718086": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions"
+ },
+ "google:google:95014539497480902": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Infrastructure, Cloud SQL"
+ },
+ "google:google:97812573251871430": {
+  "company": "Google",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer III, Full Stack"
+ },
  "greenhouse:abnormalsecurity:7992780003": {
   "company": "Abnormal Security",
   "first_seen": "2026-09-28",
@@ -208,6 +478,11 @@
   "company": "Anthropic",
   "first_seen": "2026-09-28",
   "title": "Software Engineer, Tokens and Prompt Structures"
+ },
+ "greenhouse:clear:8100208": {
+  "company": "Clear",
+  "first_seen": "2026-09-28",
+  "title": "Software Development Engineer III"
  },
  "greenhouse:discord:8642213002": {
   "company": "Discord",
@@ -303,5 +578,20 @@
   "company": "Zoox",
   "first_seen": "2026-09-28",
   "title": "Software Engineer - Pipeline Infrastructure & Integration"
+ },
+ "microsoft:microsoft:1970393556956375": {
+  "company": "Microsoft",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer 2 - Azure Functions"
+ },
+ "microsoft:microsoft:1970393557001458": {
+  "company": "Microsoft",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineering, CoreAI"
+ },
+ "microsoft:microsoft:1970393557004889": {
+  "company": "Microsoft",
+  "first_seen": "2026-09-28",
+  "title": "Software Engineer 2 - CoreAI"
  }
 }

@@ -8,7 +8,7 @@ Daily scraper for software engineering roles that fit my search:
 - **Stack:** ranked by overlap with full-stack TypeScript/React/Node and backend/infra skills (Python, Go, APIs, Postgres, AWS/GCP, Kubernetes, distributed systems)
 - **Only new postings:** anything already reported is kept in `data/seen_jobs.json` and never reported again
 
-It uses the public job-board APIs of **Greenhouse, Lever and Ashby**, covering 240 companies (see `companies.json`). It needs only the Python 3.11+ standard library.
+It uses the public job-board APIs of **Greenhouse, Lever and Ashby** (240 companies, including Anduril and Palantir) plus the career-site search APIs of **Amazon, Google and Microsoft** (see `companies.json`). For Amazon and Microsoft, pay ranges are only on each job's page, so those are fetched just for postings that already pass the title/location filters. It needs only the Python 3.11+ standard library.
 
 ## Run
 

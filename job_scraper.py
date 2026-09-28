@@ -20,6 +20,7 @@ import re
 import sys
 import time
 import urllib.error
+import urllib.parse
 import urllib.request
 from pathlib import Path
 
@@ -38,12 +39,16 @@ NOW = dt.datetime.now(dt.timezone.utc)
 # --------------------------------------------------------------------------- #
 
 def fetch_json(url, retries=3):
+    return json.loads(fetch_text(url, retries))
+
+
+def fetch_text(url, retries=3):
     last_err = None
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
             with urllib.request.urlopen(req, timeout=60) as resp:
-                return json.load(resp)
+                return resp.read().decode("utf-8", errors="replace")
         except urllib.error.HTTPError as e:
             if e.code == 404:
                 raise
@@ -82,7 +87,7 @@ def parse_date(value):
         return None
 
 
-_AMT = r"(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d+(?:\.\d+)?\s?[kK])"
+_AMT = r"(\d{1,3}(?:,\d{3})+(?:\.\d+)?|\d{5,7}(?:\.\d+)?|\d+(?:\.\d+)?\s?[kK])"
 SALARY_RANGE_RE = re.compile(
     r"\$\s?" + _AMT + r"\s*(?:USD)?\s*(?:-|–|—|to)\s*(?:USD\s*)?\$?\s?" + _AMT
 )
@@ -138,7 +143,7 @@ def job(company, ats, jid, title, locations, url, posted, text, salary):
     }
 
 
-def fetch_greenhouse(company):
+def fetch_greenhouse(company, matcher):
     data = fetch_json(f"https://boards-api.greenhouse.io/v1/boards/{company['slug']}/jobs?content=true")
     out = []
     for j in data.get("jobs", []):
@@ -150,7 +155,7 @@ def fetch_greenhouse(company):
     return out
 
 
-def fetch_lever(company):
+def fetch_lever(company, matcher):
     data = fetch_json(f"https://api.lever.co/v0/postings/{company['slug']}?mode=json")
     out = []
     for j in data:
@@ -171,7 +176,7 @@ def fetch_lever(company):
     return out
 
 
-def fetch_ashby(company):
+def fetch_ashby(company, matcher):
     data = fetch_json(
         f"https://api.ashbyhq.com/posting-api/job-board/{company['slug']}?includeCompensation=true")
     out = []
@@ -195,14 +200,136 @@ def fetch_ashby(company):
     return out
 
 
-ADAPTERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
+# Big-tech career sites. These search APIs are paginated, and Amazon/Microsoft
+# only expose pay ranges on each job's detail page, so details are fetched only
+# for postings that already pass the title/location prefilter.
+
+def _too_old(posted, matcher):
+    return posted and (NOW - posted).days > matcher.cfg["max_posting_age_days"]
 
 
-def fetch_all(companies):
+AMAZON_PAY_RE = re.compile(r"([^<>\n]{0,80}?)\b(\d{1,3}(?:,\d{3})+)(?:\.\d+)? - (\d{1,3}(?:,\d{3})+)(?:\.\d+)? USD annually")
+
+
+def fetch_amazon(company, matcher):
+    base = ("https://www.amazon.jobs/en/search.json?base_query=software%20development%20engineer"
+            "&country=USA&normalized_state_name%5B%5D=California&normalized_state_name%5B%5D=New%20York"
+            "&result_limit=100&sort=recent")
+    candidates = []
+    for offset in range(0, 1500, 100):
+        page = fetch_json(f"{base}&offset={offset}").get("jobs") or []
+        for j in page:
+            posted = None
+            try:
+                posted = dt.datetime.strptime(WS_RE.sub(" ", j["posted_date"]), "%B %d, %Y").replace(
+                    tzinfo=dt.timezone.utc)
+            except (KeyError, ValueError):
+                pass
+            locs = [j.get("location")]
+            for raw in j.get("locations") or []:
+                try:
+                    locs.append(json.loads(raw).get("location"))
+                except (TypeError, ValueError):
+                    pass
+            if _too_old(posted, matcher) or not matcher.prefilter(j.get("title", ""), locs):
+                continue
+            text = html_to_text(" ".join(j.get(k) or "" for k in
+                                         ("description", "basic_qualifications", "preferred_qualifications")))
+            candidates.append((j, posted, locs, text))
+        if len(page) < 100:
+            break
+
+    def detail(c):
+        j, posted, locs, text = c
+        url = "https://www.amazon.jobs" + j["job_path"]
+        salary = None
+        try:
+            ranges = [(where, float(lo.replace(",", "")), float(hi.replace(",", "")))
+                      for where, lo, hi in AMAZON_PAY_RE.findall(fetch_text(url))]
+            # Prefer the ranges listed for CA/NY locations when several markets are listed.
+            local = [r for r in ranges if matcher.location_matches(r[0])] or ranges
+            if local:
+                salary = (min(r[1] for r in local), max(r[2] for r in local))
+        except Exception:
+            pass
+        return job(company, "amazon", j["id_icims"], j.get("title"), locs, url, posted, text, salary)
+
+    with cf.ThreadPoolExecutor(6) as ex:
+        return list(ex.map(detail, candidates))
+
+
+GOOGLE_DATA_RE = re.compile(r"AF_initDataCallback\(\{key: 'ds:1'.*?data:(.*?), sideChannel: \{\}\}\);</script>", re.S)
+
+
+def fetch_google(company, matcher):
+    out, seen_ids = [], set()
+    for loc in ("California, USA", "New York, NY, USA"):
+        for page in range(1, 60):
+            url = ("https://www.google.com/about/careers/applications/jobs/results/"
+                   f"?q=software%20engineer&location={urllib.parse.quote(loc)}&sort_by=date&page={page}")
+            m = GOOGLE_DATA_RE.search(fetch_text(url))
+            rows = (json.loads(m.group(1))[0] or []) if m else []
+            any_recent = False
+            for j in rows:
+                posted = parse_date(j[12][0] * 1000) if j[12] else None
+                if not _too_old(posted, matcher):
+                    any_recent = True
+                if j[0] in seen_ids:
+                    continue
+                seen_ids.add(j[0])
+                locs = [l[0] for l in j[9] or []]
+                text = html_to_text(" ".join((x[1] or "") for x in (j[3], j[4], j[10], j[19]) if x))
+                out.append(job(company, "google", j[0], j[1], locs,
+                               f"https://www.google.com/about/careers/applications/jobs/results/{j[0]}",
+                               posted, text, salaries_from_text(text)))
+            if len(rows) < 20 or not any_recent:  # results are newest-first
+                break
+    return out
+
+
+def fetch_microsoft(company, matcher):
+    api = "https://apply.careers.microsoft.com/api/pcsx"
+    positions = {}
+    for loc in ("California", "New York"):
+        start = 0
+        while start < 500:
+            data = fetch_json(f"{api}/search?domain=microsoft.com&query=software%20engineer"
+                              f"&location={urllib.parse.quote(loc)}&start={start}")["data"]
+            page = data.get("positions") or []
+            for p in page:
+                positions[p["id"]] = p
+            start += len(page)
+            if not page or start >= data.get("count", 0):
+                break
+
+    candidates = []
+    for p in positions.values():
+        posted = parse_date(p["postedTs"] * 1000) if p.get("postedTs") else None
+        locs = p.get("standardizedLocations") or []
+        if not _too_old(posted, matcher) and matcher.prefilter(p.get("name", ""), locs):
+            candidates.append((p, posted, locs))
+
+    def detail(c):
+        p, posted, locs = c
+        d = fetch_json(f"{api}/position_details?position_id={p['id']}&domain=microsoft.com&hl=en")["data"]
+        text = html_to_text(d.get("jobDescription"))
+        url = d.get("publicUrl") or f"https://apply.careers.microsoft.com/careers/job/{p['id']}"
+        return job(company, "microsoft", p["id"], p.get("name"), locs, url, posted, text,
+                   salaries_from_text(text))
+
+    with cf.ThreadPoolExecutor(6) as ex:
+        return list(ex.map(detail, candidates))
+
+
+ADAPTERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby,
+            "amazon": fetch_amazon, "google": fetch_google, "microsoft": fetch_microsoft}
+
+
+def fetch_all(companies, matcher):
     jobs, failures = [], []
 
     def run(c):
-        return c, ADAPTERS[c["ats"]](c)
+        return c, ADAPTERS[c["ats"]](c, matcher)
 
     # Ashby rate-limits bursts, so give it a small pool of its own.
     ashby = [c for c in companies if c["ats"] == "ashby"]
@@ -235,17 +362,25 @@ class Matcher:
         self.loc_exc = [re.compile(p) for p in cfg["location_exclude_patterns"]]
         self.skills = {name: re.compile(p, re.I) for name, p in cfg["skill_keywords"].items()}
 
+    def title_matches(self, title):
+        return (any(p.search(title) for p in self.title_inc)
+                and not any(p.search(title) for p in self.title_exc))
+
+    def location_matches(self, loc):
+        return (bool(loc) and any(p.search(loc) for p in self.loc_inc)
+                and not any(p.search(loc) for p in self.loc_exc))
+
+    def prefilter(self, title, locations):
+        """Cheap title + location check, used before fetching per-job detail pages."""
+        return self.title_matches(title) and any(self.location_matches(l) for l in locations)
+
     def evaluate(self, j):
         """Return None if the job is rejected, else the job enriched with match info."""
         title = j["title"]
-        if not any(p.search(title) for p in self.title_inc):
-            return None
-        if any(p.search(title) for p in self.title_exc):
+        if not self.title_matches(title):
             return None
 
-        matched_locs = [l for l in j["locations"]
-                        if any(p.search(l) for p in self.loc_inc)
-                        and not any(p.search(l) for p in self.loc_exc)]
+        matched_locs = [l for l in j["locations"] if self.location_matches(l)]
         if not matched_locs:
             return None
 
@@ -341,7 +476,7 @@ def main():
     companies = json.loads(COMPANIES_PATH.read_text())
     matcher = Matcher(cfg)
 
-    jobs, failures = fetch_all(companies)
+    jobs, failures = fetch_all(companies, matcher)
     matches, seen_keys = [], set()
     for j in jobs:
         if j["key"] in seen_keys:
@@ -352,7 +487,14 @@ def main():
             matches.append(m)
 
     seen = load_seen()
-    new_jobs = [m for m in matches if m["key"] not in seen]
+    new_all = [m for m in matches if m["key"] not in seen]
+    # Some companies post the same role several times under different IDs; list it once.
+    new_jobs, shown = [], set()
+    for m in new_all:
+        ident = (m["company"], m["title"].lower(), tuple(m["matched_locations"]))
+        if ident not in shown:
+            shown.add(ident)
+            new_jobs.append(m)
     new_jobs.sort(key=lambda m: (-len(m["skills"]), -m["salary"][1], m["company"]))
 
     today = NOW.astimezone(pacific_tz()).date().isoformat()
@@ -364,7 +506,7 @@ def main():
     if args.dry_run:
         return 0
 
-    for m in new_jobs:
+    for m in new_all:
         seen[m["key"]] = {"first_seen": today, "company": m["company"], "title": m["title"]}
     save_seen(seen, cfg)
     REPORTS_DIR.mkdir(exist_ok=True)
