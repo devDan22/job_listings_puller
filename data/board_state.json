@@ -1,0 +1,3575 @@
+{
+ "jobs": {
+  "0395a86a": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Roblox",
+   "hidden": false,
+   "key": "greenhouse:roblox:8171506",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Mateo, CA",
+    "San Mateo, CA, United States"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    182170.0,
+    227370.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go"
+   ],
+   "title": "Software Engineer, Engine Infrastructure",
+   "url": "https://careers.roblox.com/jobs/8171506?gh_jid=8171506"
+  },
+  "067f8dfd": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:4923fd3e-acf2-4551-91ad-5a92ca81455b",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    347000.0,
+    385000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Healthcare",
+   "url": "https://jobs.ashbyhq.com/openai/4923fd3e-acf2-4551-91ad-5a92ca81455b"
+  },
+  "068c677b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10532170",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, East Palo Alto"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer II, AWS Catalog",
+   "url": "https://www.amazon.jobs/en/jobs/10532170/software-development-engineer-ii-aws-catalog"
+  },
+  "080614b2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10563000",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-29",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "url": "https://www.amazon.jobs/en/jobs/10563000/software-development-engineer-aws-ec2-nitro-team"
+  },
+  "0a80217a": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:83336424635409094",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Internet Egress Traffic Engineering",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/83336424635409094"
+  },
+  "0b628062": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:122882465936089798",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Database Internals, AlloyDB",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/122882465936089798"
+  },
+  "0f891c76": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:113517396047602374",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY, USA",
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Storage Analytics",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/113517396047602374"
+  },
+  "172866a4": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5244366007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States; Reston, Virginia, United States; Seattle, Washington, United States; Washington, District of Columbia, United States"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "React",
+    "Python",
+    "Go"
+   ],
+   "title": "Software Engineer, Strategic Defense",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244366007?gh_jid=5244366007"
+  },
+  "17fed875": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "World Labs",
+   "hidden": false,
+   "key": "ashby:worldlabs:9a1f90f1-660b-48bb-825a-e546d402e17f",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    275000.0,
+    325000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Full-stack"
+   ],
+   "title": "Product Engineer",
+   "url": "https://jobs.ashbyhq.com/worldlabs/9a1f90f1-660b-48bb-825a-e546d402e17f"
+  },
+  "19219021": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10544200",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Kubernetes/Docker"
+   ],
+   "title": "Software Development Engineer , AWS Kubernetes (K8s), AWS Kubernetes",
+   "url": "https://www.amazon.jobs/en/jobs/10544200/software-development-engineer-aws-kubernetes-k8s-aws-kubernetes"
+  },
+  "1b04877d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:40f2f959-20f8-40ca-8b8c-154b6774193a",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    255000.0,
+    490000.0
+   ],
+   "skills": [
+    "Node.js",
+    "REST APIs",
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Compute Foundations",
+   "url": "https://jobs.ashbyhq.com/openai/40f2f959-20f8-40ca-8b8c-154b6774193a"
+  },
+  "1ca844cc": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Thinking Machines Lab",
+   "hidden": false,
+   "key": "ashby:thinkingmachines:cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York",
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    300000.0,
+    350000.0
+   ],
+   "skills": [
+    "Python",
+    "REST APIs",
+    "Kubernetes/Docker"
+   ],
+   "title": "Software Engineer, Sandboxing",
+   "url": "https://jobs.ashbyhq.com/thinkingmachines/cc4f4b4e-8671-4f7b-8d3d-a2514a43f5b2"
+  },
+  "1ce29e15": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10555776",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Measurement, Ad Tech, and Data Science (MADS) - Tax & Promotions",
+   "url": "https://www.amazon.jobs/en/jobs/10555776/software-development-engineer-measurement-ad-tech-and-data-science-mads-tax-promotions"
+  },
+  "1d349894": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:131985274384065222",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY, USA"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Google Cloud Performance",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/131985274384065222"
+  },
+  "21a65d6d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10563008",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-29",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "url": "https://www.amazon.jobs/en/jobs/10563008/software-development-engineer-aws-ec2-nitro-team"
+  },
+  "22b107e2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5242907007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Boston, Massachusetts, United States; Costa Mesa, California, United States; Washington, District of Columbia, United States"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "React",
+    "Python",
+    "Go",
+    "REST APIs",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Discovery",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5242907007?gh_jid=5242907007"
+  },
+  "22e3fd24": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:118668882901639878",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Google Cloud Storage Efficiency",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/118668882901639878"
+  },
+  "28c21cc4": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:95014539497480902",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP"
+   ],
+   "title": "Software Engineer III, Infrastructure, Cloud SQL",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/95014539497480902"
+  },
+  "29794b7e": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10562411",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Amazon Shopping Videos (Ads)",
+   "url": "https://www.amazon.jobs/en/jobs/10562411/software-development-engineer-amazon-shopping-videos-ads"
+  },
+  "29e88640": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Pinterest",
+   "hidden": false,
+   "key": "greenhouse:pinterest:8213988",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, CA, US; Remote, US"
+   ],
+   "posted": "2026-09-18",
+   "salary": [
+    123696.0,
+    254667.0
+   ],
+   "skills": [
+    "Python",
+    "Postgres/SQL"
+   ],
+   "title": "Software Engineer II, Data Analytics & Engineering",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
+  },
+  "2ab863e3": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:114956454904898246",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Los Angeles, CA, USA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Photos Core Data and Server",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/114956454904898246"
+  },
+  "2b2123ff": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10534469",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "Postgres/SQL",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer II, Athena Engine Front End",
+   "url": "https://www.amazon.jobs/en/jobs/10534469/software-engineer-ii-athena-engine-front-end"
+  },
+  "2b83e91b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Abnormal Security",
+   "hidden": false,
+   "key": "greenhouse:abnormalsecurity:7992780003",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Hybrid - San Francisco, CA, USA"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    149200.0,
+    214500.0
+   ],
+   "skills": [
+    "Python",
+    "Go"
+   ],
+   "title": "Software Engineer II - Insider Risk",
+   "url": "https://abnormal.ai/careers/jobs/7992780003?gh_jid=7992780003"
+  },
+  "2dbbfa93": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5131034007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer - Maritime",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5131034007?gh_jid=5131034007"
+  },
+  "2f4dbad8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:134896932572013254",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Pixel Audio",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134896932572013254"
+  },
+  "2f77424e": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10537818",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Amazon Optics",
+   "url": "https://www.amazon.jobs/en/jobs/10537818/software-development-engineer-amazon-optics"
+  },
+  "36bda77b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559513",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",
+   "url": "https://www.amazon.jobs/en/jobs/10559513/software-developer-engineer-amazon-workspaces-core-managed-instances"
+  },
+  "36ef5ddd": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:143697701739864774",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY, USA"
+   ],
+   "posted": "2026-09-17",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Geo",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/143697701739864774"
+  },
+  "39d90a70": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10541943",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Agentic Workspaces",
+   "url": "https://www.amazon.jobs/en/jobs/10541943/software-development-engineer-agentic-workspaces"
+  },
+  "3b4533ec": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:81218190788436678",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-10",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Google Kubernetes Engine",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/81218190788436678"
+  },
+  "3c433bb2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:7caed1e8-c6f6-4569-9d45-2d7a7a56a025",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    266000.0,
+    445000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Search Infrastructure",
+   "url": "https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025"
+  },
+  "3d53c8ce": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:92679765210604230",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Applied Research, YouTube Languages Capabilities",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/92679765210604230"
+  },
+  "3ea0f8e8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:ac442f1f-c0d2-4608-a155-bfc89190e01c",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    266000.0,
+    385000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "Python",
+    "REST APIs",
+    "Postgres/SQL",
+    "Redis/Kafka",
+    "Full-stack"
+   ],
+   "title": "Fullstack Software Engineer, Child Safety Tools & Systems",
+   "url": "https://jobs.ashbyhq.com/openai/ac442f1f-c0d2-4608-a155-bfc89190e01c"
+  },
+  "3ecdfd2e": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:d6582737-8d9d-4747-a7a2-92df0b3eda91",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    200000.0,
+    275000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "Go",
+    "Postgres/SQL",
+    "Kubernetes/Docker",
+    "Microservices",
+    "Full-stack"
+   ],
+   "title": "Software Engineer - Data Pipeline",
+   "url": "https://jobs.ashbyhq.com/applied/d6582737-8d9d-4747-a7a2-92df0b3eda91"
+  },
+  "43783c63": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10544575",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, AWS Marketplace",
+   "url": "https://www.amazon.jobs/en/jobs/10544575/software-development-engineer-aws-marketplace"
+  },
+  "4479602e": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:76658205756662470",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Platforms and Devices",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/76658205756662470"
+  },
+  "46b42e91": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Clear",
+   "hidden": false,
+   "key": "greenhouse:clear:8100208",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY, United States "
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    220000.0,
+    290000.0
+   ],
+   "skills": [
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Redis/Kafka",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer III",
+   "url": "https://job-boards.greenhouse.io/clear/jobs/8100208"
+  },
+  "471ffe3f": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:fd5df98a-e2c8-4d47-a803-daee5cccb36f",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    180000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer, Agent - Tech, Media & Telecom",
+   "url": "https://jobs.ashbyhq.com/sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f"
+  },
+  "487094be": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10552752",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-17",
+   "salary": [
+    193300.0,
+    261500.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Dashboards/data viz"
+   ],
+   "title": "Software Development Engineer III, AWS Sagemaker Unified Studio",
+   "url": "https://www.amazon.jobs/en/jobs/10552752/software-development-engineer-iii-aws-sagemaker-unified-studio"
+  },
+  "4d57f741": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Discord",
+   "hidden": false,
+   "key": "greenhouse:discord:8642213002",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco Bay Area",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    160000.0,
+    200000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "Python"
+   ],
+   "title": "Software Engineer, Notifications",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8642213002"
+  },
+  "4e51cfb1": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10558787",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer II, Agentic WorkSpaces Client",
+   "url": "https://www.amazon.jobs/en/jobs/10558787/software-development-engineer-ii-agentic-workspaces-client"
+  },
+  "4ebf2f96": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:ccee2574-f12a-4a0c-bc57-427a34d6d59b",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    170000.0,
+    265000.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs"
+   ],
+   "title": "Software Engineer - Onboard Maps",
+   "url": "https://jobs.ashbyhq.com/applied/ccee2574-f12a-4a0c-bc57-427a34d6d59b"
+  },
+  "4fa3c930": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Ramp",
+   "hidden": false,
+   "key": "ashby:ramp:7cd46077-05fe-4cd7-816f-5528638342f1",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City, NY",
+    "New York, NY (HQ)",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    200000.0,
+    310000.0
+   ],
+   "skills": [
+    "React",
+    "Next.js"
+   ],
+   "title": "Software Engineer, Frontend, Growth",
+   "url": "https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1"
+  },
+  "517aa58e": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "DoorDash",
+   "hidden": false,
+   "key": "greenhouse:doordashusa:8212984",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York",
+    "San Francisco, CA; Seattle, WA; NYC, NY"
+   ],
+   "posted": "2026-09-18",
+   "salary": [
+    193800.0,
+    285000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "React",
+    "REST APIs",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Full-stack",
+    "Dashboards/data viz"
+   ],
+   "title": "Software Engineer",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8212984"
+  },
+  "519ab9cf": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559515",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",
+   "url": "https://www.amazon.jobs/en/jobs/10559515/software-developer-engineer-amazon-workspaces-core-managed-instances"
+  },
+  "53f69803": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10552602",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-17",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Amazon Connect Telecom Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10552602/software-development-engineer-amazon-connect-telecom-engineering"
+  },
+  "54fb0864": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:56d541d3-02b5-44d8-b40b-4df72cdd0405",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    266000.0,
+    468000.0
+   ],
+   "skills": [
+    "Python",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, AI for Chip Design",
+   "url": "https://jobs.ashbyhq.com/openai/56d541d3-02b5-44d8-b40b-4df72cdd0405"
+  },
+  "5b4039ab": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559220",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, AWS Industries - Telecom Industry",
+   "url": "https://www.amazon.jobs/en/jobs/10559220/software-development-engineer-aws-industries-telecom-industry"
+  },
+  "5c9de801": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Microsoft",
+   "hidden": false,
+   "key": "microsoft:microsoft:1970393557004889",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, US"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    102100.0,
+    219200.0
+   ],
+   "skills": [
+    "C++",
+    "JavaScript",
+    "Python",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer 2 - CoreAI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557004889"
+  },
+  "5fcec7b2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10535019",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer -Control Plane, AWS Scalable Intent Driven Routing (SIDR)",
+   "url": "https://www.amazon.jobs/en/jobs/10535019/software-development-engineer-control-plane-aws-scalable-intent-driven-routing-sidr"
+  },
+  "61afad12": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10532746",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, San Francisco"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "REST APIs",
+    "AWS/GCP",
+    "Redis/Kafka"
+   ],
+   "title": "Software Development Engineer, Data Platform & Analytics - ART19",
+   "url": "https://www.amazon.jobs/en/jobs/10532746/software-development-engineer-data-platform-analytics-art19"
+  },
+  "633b94d1": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Figma",
+   "hidden": false,
+   "key": "greenhouse:figma:6201407004",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA \u2022 New York, NY \u2022 United States"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    153000.0,
+    376000.0
+   ],
+   "skills": [
+    "Python",
+    "Distributed systems"
+   ],
+   "title": "Data Platform Engineer",
+   "url": "https://boards.greenhouse.io/figma/jobs/6201407004?gh_jid=6201407004"
+  },
+  "6577aa3a": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Zoox",
+   "hidden": false,
+   "key": "lever:zoox:978e36ef-e8e9-4874-ade6-f33a80e46309",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    196000.0,
+    240000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "React",
+    "Python",
+    "REST APIs",
+    "Dashboards/data viz"
+   ],
+   "title": "Software Engineer - Pipeline Infrastructure & Integration",
+   "url": "https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309"
+  },
+  "661d79a6": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "DoorDash",
+   "hidden": false,
+   "key": "greenhouse:doordashusa:8224641",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    193800.0,
+    285000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Redis/Kafka"
+   ],
+   "title": "Software Engineer, Backend - Autonomous Delivery Platform",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8224641"
+  },
+  "6bff7358": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10561581",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer",
+   "url": "https://www.amazon.jobs/en/jobs/10561581/software-development-engineer"
+  },
+  "6e815c69": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:86779871715304134",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA, USA"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    174000.0,
+    252000.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Serverless Networking",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/86779871715304134"
+  },
+  "6e84ba8f": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10534987",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, EC2 Nitro, EC2 Local Instance Store",
+   "url": "https://www.amazon.jobs/en/jobs/10534987/software-development-engineer-ec2-nitro-ec2-local-instance-store"
+  },
+  "719ed749": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:6b7aacaa-32e3-4d58-93e6-7d7068f44617",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    190000.0,
+    265000.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs"
+   ],
+   "title": "Software Engineer - Onboard Maps and State Estimation",
+   "url": "https://jobs.ashbyhq.com/applied/6b7aacaa-32e3-4d58-93e6-7d7068f44617"
+  },
+  "72063e31": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Vercel",
+   "hidden": false,
+   "key": "greenhouse:vercel:6207796004",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Hybrid - San Francisco"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    196000.0,
+    312000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "JavaScript",
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Scheduled Tasks",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6207796004"
+  },
+  "727e3f7d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10537393",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Culver City",
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    143700.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, AI Studios Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10537393/software-development-engineer-ai-studios-engineering"
+  },
+  "733d2a09": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10560707",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, Amazon Quick",
+   "url": "https://www.amazon.jobs/en/jobs/10560707/software-development-engineer-amazon-quick"
+  },
+  "746196b9": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Rogo",
+   "hidden": false,
+   "key": "ashby:rogo:fd7cecdb-5ae4-494f-a2e1-fd310398efaf",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York , New York",
+    "New York City"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    250000.0,
+    315000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Distributed systems",
+    "Redis/Kafka"
+   ],
+   "title": "Software Engineer: Financial Data",
+   "url": "https://jobs.ashbyhq.com/rogo/fd7cecdb-5ae4-494f-a2e1-fd310398efaf"
+  },
+  "74ed9b6c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10555703",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "React"
+   ],
+   "title": "Software Development Engineer, 3P Measurement Tech",
+   "url": "https://www.amazon.jobs/en/jobs/10555703/software-development-engineer-3p-measurement-tech"
+  },
+  "750406af": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Rogo",
+   "hidden": false,
+   "key": "ashby:rogo:46da838e-af45-4cb9-bb15-d1818613a876",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York , New York",
+    "New York City"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    250000.0,
+    315000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Python",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Full-stack"
+   ],
+   "title": "Software Engineer: Fullstack",
+   "url": "https://jobs.ashbyhq.com/rogo/46da838e-af45-4cb9-bb15-d1818613a876"
+  },
+  "774edd76": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559049",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Amazon Shopping Videos (Ads)",
+   "url": "https://www.amazon.jobs/en/jobs/10559049/software-development-engineer-amazon-shopping-videos-ads"
+  },
+  "7907033c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Rogo",
+   "hidden": false,
+   "key": "ashby:rogo:04777127-53d6-49cb-9372-4332280857a1",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York , New York",
+    "New York City"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    250000.0,
+    315000.0
+   ],
+   "skills": [
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer: Platform",
+   "url": "https://jobs.ashbyhq.com/rogo/04777127-53d6-49cb-9372-4332280857a1"
+  },
+  "7c22b353": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Snowflake",
+   "hidden": false,
+   "key": "ashby:snowflake:a51a1e30-94ec-4550-b39f-90ef328dfa87",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Menlo Park, California",
+    "US-CA-Menlo Park"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    160000.0,
+    230000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "Go",
+    "Full-stack"
+   ],
+   "title": "Fullstack Engineer - Marketplace",
+   "url": "https://jobs.ashbyhq.com/snowflake/a51a1e30-94ec-4550-b39f-90ef328dfa87"
+  },
+  "7c573ec6": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:126239137496736454",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA, USA",
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    152000.0,
+    221000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "AWS/GCP",
+    "Kubernetes/Docker"
+   ],
+   "title": "Cloud Platforms and Infrastructure Engineer, TPU/GPU",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/126239137496736454"
+  },
+  "82d66f17": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:99e36fcf-c027-403b-a926-8b73b6b9e2a6",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    200000.0,
+    275000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Full-stack"
+   ],
+   "title": "Software Engineer - Real-Time Vehicle Telemetry & Visualization",
+   "url": "https://jobs.ashbyhq.com/applied/99e36fcf-c027-403b-a926-8b73b6b9e2a6"
+  },
+  "832fd672": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Writer",
+   "hidden": false,
+   "key": "ashby:writer:40021ec1-fc21-4230-8d95-0eca8fd51bec",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City, NY",
+    "New York City, New York",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    132000.0,
+    240000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "REST APIs",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Microservices",
+    "Full-stack"
+   ],
+   "title": "Software engineer, agents",
+   "url": "https://jobs.ashbyhq.com/writer/40021ec1-fc21-4230-8d95-0eca8fd51bec"
+  },
+  "841bc229": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Writer",
+   "hidden": false,
+   "key": "ashby:writer:95b50afd-4996-4623-ae1c-602fe04b2777",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City, NY",
+    "San Francisco, CA",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    132000.0,
+    240000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Microservices"
+   ],
+   "title": "Software engineer, generative AI",
+   "url": "https://jobs.ashbyhq.com/writer/95b50afd-4996-4623-ae1c-602fe04b2777"
+  },
+  "84820bc6": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559549",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Sponsored Products and Brands",
+   "url": "https://www.amazon.jobs/en/jobs/10559549/software-development-engineer-sponsored-products-and-brands"
+  },
+  "84a93ffd": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:112112894497170118",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA, USA",
+    "San Jose, CA, USA"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "Python",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Fuchsia WLAN Core",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/112112894497170118"
+  },
+  "8742e7ae": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10557046",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, East Palo Alto"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    193300.0,
+    261500.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, AWS Athena and Glue ETL",
+   "url": "https://www.amazon.jobs/en/jobs/10557046/software-development-engineer-aws-athena-and-glue-etl"
+  },
+  "87de06cc": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "World Labs",
+   "hidden": false,
+   "key": "ashby:worldlabs:a377b6b8-f335-452c-82f9-8cdb9d08a745",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    250000.0,
+    325000.0
+   ],
+   "skills": [
+    "C++",
+    "Python"
+   ],
+   "title": "Rendering Systems Engineer - Simulation & Synthetic Data",
+   "url": "https://jobs.ashbyhq.com/worldlabs/a377b6b8-f335-452c-82f9-8cdb9d08a745"
+  },
+  "8e56055c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Discord",
+   "hidden": false,
+   "key": "greenhouse:discord:8846732002",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco Bay Area",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    160000.0,
+    200000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "REST APIs",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Consumer Revenue",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8846732002"
+  },
+  "8f636528": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Shield AI",
+   "hidden": false,
+   "key": "lever:shieldai:ac228821-b2f8-4155-a119-b05e16ebaefe",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Diego, California"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    160000.0,
+    250000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Generative AI Application Engineer, Learning & Development (R5856)",
+   "url": "https://jobs.lever.co/shieldai/ac228821-b2f8-4155-a119-b05e16ebaefe"
+  },
+  "905f3c62": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City",
+    "New York, New York",
+    "San Francisco"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    266000.0,
+    445000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, API Frontiers",
+   "url": "https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86"
+  },
+  "90727af5": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Nextdoor",
+   "hidden": false,
+   "key": "greenhouse:nextdoor:8198185",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US CA San Francisco - HQ",
+    "US NY New York"
+   ],
+   "posted": "2026-09-14",
+   "salary": [
+    135000.0,
+    200000.0
+   ],
+   "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "Postgres/SQL",
+    "Full-stack"
+   ],
+   "title": "Software Engineer - Fullstack",
+   "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198185"
+  },
+  "94822780": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anthropic",
+   "hidden": false,
+   "key": "greenhouse:anthropic:5421263008",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA",
+    "San Francisco, CA | New York City, NY"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    320000.0,
+    405000.0
+   ],
+   "skills": [
+    "Python",
+    "REST APIs"
+   ],
+   "title": "Software Engineer, Tokens and Prompt Structures",
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5421263008"
+  },
+  "960e3ff5": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10538461",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, San Francisco"
+   ],
+   "posted": "2026-09-14",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Amazon Music, Partner Payments & Reporting",
+   "url": "https://www.amazon.jobs/en/jobs/10538461/software-development-engineer-amazon-music-partner-payments-reporting"
+  },
+  "97b646bd": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:138249054688551622",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Semantic Understanding, Search Ads Personalization",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/138249054688551622"
+  },
+  "97ded107": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "DoorDash",
+   "hidden": false,
+   "key": "greenhouse:doordashusa:8180903",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York",
+    "New York, NY"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    130600.0,
+    285000.0
+   ],
+   "skills": [
+    "Python",
+    "Go",
+    "AWS/GCP",
+    "Kubernetes/Docker"
+   ],
+   "title": "Software Engineer, Cloud Infrastructure",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8180903"
+  },
+  "9898f88d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10561978",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, Amazon Quick",
+   "url": "https://www.amazon.jobs/en/jobs/10561978/software-development-engineer-amazon-quick"
+  },
+  "993a48f9": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10532360",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Mountain View"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, PostX - APEX",
+   "url": "https://www.amazon.jobs/en/jobs/10532360/software-development-engineer-postx-apex"
+  },
+  "9a8017f8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10559512",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Developer Engineer, Amazon WorkSpaces Core Managed Instances",
+   "url": "https://www.amazon.jobs/en/jobs/10559512/software-developer-engineer-amazon-workspaces-core-managed-instances"
+  },
+  "9a88898c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:b9b9b5e0-7304-4265-aa71-d71d80d29402",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    180000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer, Agent - Insurance",
+   "url": "https://jobs.ashbyhq.com/sierra/b9b9b5e0-7304-4265-aa71-d71d80d29402"
+  },
+  "9cc7963b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Writer",
+   "hidden": false,
+   "key": "ashby:writer:d22a420f-786e-4c66-8846-c77878483cd5",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City, NY",
+    "New York City, New York",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    155000.0,
+    240000.0
+   ],
+   "skills": [
+    "Python",
+    "Go",
+    "AWS/GCP",
+    "Kubernetes/Docker"
+   ],
+   "title": "Infrastructure engineer",
+   "url": "https://jobs.ashbyhq.com/writer/d22a420f-786e-4c66-8846-c77878483cd5"
+  },
+  "9e6d2b1c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "DoorDash",
+   "hidden": false,
+   "key": "greenhouse:doordashusa:8191134",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA",
+    "San Francisco, CA; Seattle, WA; New York, NY"
+   ],
+   "posted": "2026-09-10",
+   "salary": [
+    159800.0,
+    235000.0
+   ],
+   "skills": [
+    "Go",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Redis/Kafka"
+   ],
+   "title": "Software Engineer, Storage - Distributed Caching",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191134"
+  },
+  "9efcb71b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:932de549-2882-4c0d-aeca-b4a8ef5f1f41",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    150000.0,
+    300000.0
+   ],
+   "skills": [
+    "Python",
+    "REST APIs"
+   ],
+   "title": "Robot Infrastructure Engineer - Collection Tooling",
+   "url": "https://jobs.ashbyhq.com/applied/932de549-2882-4c0d-aeca-b4a8ef5f1f41"
+  },
+  "a12f6af7": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:91223711167718086",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Consumer Shopping Quality, Commerce, Recommendations, Rankings, Predictions",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/91223711167718086"
+  },
+  "a201a557": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10536714",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-10",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "AWS/GCP",
+    "Full-stack",
+    "Dashboards/data viz"
+   ],
+   "title": "Software Development Engineer, 3PX Analytics & Insights",
+   "url": "https://www.amazon.jobs/en/jobs/10536714/software-development-engineer-3px-analytics-insights"
+  },
+  "a32909f2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10531826",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer II, AWS WorkSpaces, AWS WorkSpaces Control Plane Backend",
+   "url": "https://www.amazon.jobs/en/jobs/10531826/software-development-engineer-ii-aws-workspaces-aws-workspaces-control-plane-backend"
+  },
+  "a3d4cddf": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:85418857782485702",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-14",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, GDC Networking, Google Cloud",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/85418857782485702"
+  },
+  "a60c8e76": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10544074",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Palo Alto",
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    158100.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "Distributed systems",
+    "Microservices"
+   ],
+   "title": "Software Development Engineer, Amazon Ads Demand Tech, Forecasting and Guidance",
+   "url": "https://www.amazon.jobs/en/jobs/10544074/software-development-engineer-amazon-ads-demand-tech-forecasting-and-guidance"
+  },
+  "a63f76c9": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10537085",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Palo Alto"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Sponsored Products and Brands",
+   "url": "https://www.amazon.jobs/en/jobs/10537085/software-development-engineer-sponsored-products-and-brands"
+  },
+  "a78d57a0": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10537794",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Sponsored Products and Brands",
+   "url": "https://www.amazon.jobs/en/jobs/10537794/software-development-engineer-sponsored-products-and-brands"
+  },
+  "a995a469": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10536489",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-10",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer - Gen AI, Connect (AI Agent)",
+   "url": "https://www.amazon.jobs/en/jobs/10536489/software-development-engineer-gen-ai-connect-ai-agent"
+  },
+  "aa244123": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10556318",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer II",
+   "url": "https://www.amazon.jobs/en/jobs/10556318/software-development-engineer-ii"
+  },
+  "abd5f2d2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Writer",
+   "hidden": false,
+   "key": "ashby:writer:699a2c97-5273-4954-a92a-a2ccee95c95e",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York City, NY",
+    "San Francisco, CA",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    132000.0,
+    240000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Microservices"
+   ],
+   "title": "Software engineer, connectors & MCP",
+   "url": "https://jobs.ashbyhq.com/writer/699a2c97-5273-4954-a92a-a2ccee95c95e"
+  },
+  "ad278d4b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:137243138988090054",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Google Workspace",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/137243138988090054"
+  },
+  "ae5470c4": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:75227853871817414",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, API Proxy, One Platform",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/75227853871817414"
+  },
+  "b02e33bd": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:c5f39beb-dc8a-4f43-a156-28754d306f64",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    230000.0,
+    385000.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs"
+   ],
+   "title": "Operating Systems Engineer, Connectivity & Networking | Consumer Devices",
+   "url": "https://jobs.ashbyhq.com/openai/c5f39beb-dc8a-4f43-a156-28754d306f64"
+  },
+  "b1abc9be": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10562998",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-29",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "url": "https://www.amazon.jobs/en/jobs/10562998/software-development-engineer-aws-ec2-nitro-team"
+  },
+  "b389993d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:9909555b-3dc4-4ba2-859e-43eae7c97a34",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    347000.0,
+    445000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "Node.js",
+    "Python",
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Product Velocity",
+   "url": "https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34"
+  },
+  "b596a991": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:80133199371346630",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Network Connectivity Center",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/80133199371346630"
+  },
+  "b63a7f9d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:97812573251871430",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA",
+    "Palo Alto, CA, USA",
+    "San Bruno, CA, USA"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "REST APIs",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Full Stack",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/97812573251871430"
+  },
+  "b68aef1f": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10538018",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, AWS Intent Driven Networking (AIDN)",
+   "url": "https://www.amazon.jobs/en/jobs/10538018/software-development-engineer-aws-intent-driven-networking-aidn"
+  },
+  "b8d8cd06": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Microsoft",
+   "hidden": false,
+   "key": "microsoft:microsoft:1970393556956375",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, US"
+   ],
+   "posted": "2026-09-18",
+   "salary": [
+    102100.0,
+    219200.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Go",
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer 2 - Azure Functions",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556956375"
+  },
+  "b9bf91ac": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10547170",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Specialist AI Tooling, Specialist Technology Team",
+   "url": "https://www.amazon.jobs/en/jobs/10547170/software-development-engineer-specialist-ai-tooling-specialist-technology-team"
+  },
+  "ba94aeb8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Microsoft",
+   "hidden": false,
+   "key": "microsoft:microsoft:1970393557001458",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, US"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    102100.0,
+    219200.0
+   ],
+   "skills": [
+    "C++",
+    "JavaScript",
+    "Python",
+    "REST APIs"
+   ],
+   "title": "Software Engineering, CoreAI",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557001458"
+  },
+  "bb0e2ec8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Mercor",
+   "hidden": false,
+   "key": "ashby:mercor:374cd009-516f-4a1f-abbf-bcca5287daae",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    220000.0,
+    500000.0
+   ],
+   "skills": [
+    "GraphQL",
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Systems & Platform Applied AI",
+   "url": "https://jobs.ashbyhq.com/mercor/374cd009-516f-4a1f-abbf-bcca5287daae"
+  },
+  "bc2c3b0c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5249750007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Mission Software Engineer, Mission Systems",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5249750007?gh_jid=5249750007"
+  },
+  "c29fbac8": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Zoox",
+   "hidden": false,
+   "key": "lever:zoox:6da52aa7-0ccb-48d0-af25-0889f41ddee5",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Foster City, CA"
+   ],
+   "posted": "2026-09-08",
+   "salary": [
+    196000.0,
+    242000.0
+   ],
+   "skills": [
+    "C++",
+    "Python"
+   ],
+   "title": "Software Engineer - Robot Software Infrastructure",
+   "url": "https://jobs.lever.co/zoox/6da52aa7-0ccb-48d0-af25-0889f41ddee5"
+  },
+  "c4b9fd15": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:f3308520-6d7d-45ac-b96d-3f5a5012e6c9",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY",
+    "New York, New York",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    180000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer, Agent - Healthcare",
+   "url": "https://jobs.ashbyhq.com/sierra/f3308520-6d7d-45ac-b96d-3f5a5012e6c9"
+  },
+  "c4dd72de": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:87f2a303-c2a1-484e-9e4b-efdcaafa440e",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    230000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "Go",
+    "REST APIs",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Horizon",
+   "url": "https://jobs.ashbyhq.com/sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e"
+  },
+  "c54a1312": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Vercel",
+   "hidden": false,
+   "key": "greenhouse:vercel:6195280004",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Hybrid - San Francisco, New York City"
+   ],
+   "posted": "2026-09-16",
+   "salary": [
+    208000.0,
+    312000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "Go"
+   ],
+   "title": "Software Engineer, Platform",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6195280004"
+  },
+  "c5bd68b0": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10552157",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-17",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, Amazon WorkSpaces Applications",
+   "url": "https://www.amazon.jobs/en/jobs/10552157/software-development-engineer-amazon-workspaces-applications"
+  },
+  "c6724b06": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:100310324367762118",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Infrastructure, Google Cloud Networking",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/100310324367762118"
+  },
+  "c82751e2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:33dbd62f-8212-4ea8-9b59-74370c1f2803",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    180000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer, Agent - Financial Services",
+   "url": "https://jobs.ashbyhq.com/sierra/33dbd62f-8212-4ea8-9b59-74370c1f2803"
+  },
+  "cae82412": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10541530",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Culver City",
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    143700.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, AI Studios Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10541530/software-development-engineer-ai-studios-engineering"
+  },
+  "cd78b8f4": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Applied Intuition",
+   "hidden": false,
+   "key": "ashby:applied:f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale",
+    "Sunnyvale, California"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    200000.0,
+    275000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Full-stack"
+   ],
+   "title": "Full-Stack Software Engineer -  Command & Control",
+   "url": "https://jobs.ashbyhq.com/applied/f4c0ee25-b4d4-4f3d-b054-e9c1aeb56104"
+  },
+  "cdc62348": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10563004",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-29",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer, AWS EC2 Nitro Team",
+   "url": "https://www.amazon.jobs/en/jobs/10563004/software-development-engineer-aws-ec2-nitro-team"
+  },
+  "d136de43": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10544003",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "React"
+   ],
+   "title": "Software Development Engineer, 3P Measurement Tech",
+   "url": "https://www.amazon.jobs/en/jobs/10544003/software-development-engineer-3p-measurement-tech"
+  },
+  "d15e036d": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10555428",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Sunnyvale"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Development Engineer, Alexa Excellence, Alexa LLM Inference, Capacity, & Efficiency",
+   "url": "https://www.amazon.jobs/en/jobs/10555428/software-development-engineer-alexa-excellence-alexa-llm-inference-capacity-efficiency"
+  },
+  "d20673da": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Discord",
+   "hidden": false,
+   "key": "greenhouse:discord:8823881002",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco Bay Area or Remote (U.S.)",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    160000.0,
+    220000.0
+   ],
+   "skills": [
+    "Python",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Safety Processing",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8823881002"
+  },
+  "d228816c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10541540",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, Culver City",
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    143700.0,
+    213800.0
+   ],
+   "skills": [
+    "C++",
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, AI Studios Engineering",
+   "url": "https://www.amazon.jobs/en/jobs/10541540/software-development-engineer-ai-studios-engineering"
+  },
+  "d39ead14": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5244590007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States"
+   ],
+   "posted": "2026-09-22",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "Kubernetes/Docker",
+    "Distributed systems",
+    "Microservices"
+   ],
+   "title": "Software Engineer, Space Systems Test",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244590007?gh_jid=5244590007"
+  },
+  "d41101a6": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Palantir",
+   "hidden": false,
+   "key": "lever:palantir:a576c5ef-2a51-4522-9c98-bca5ac2abbb3",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    135000.0,
+    200000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "REST APIs"
+   ],
+   "title": "Software Engineer \u2013 Query Engines",
+   "url": "https://jobs.lever.co/palantir/a576c5ef-2a51-4522-9c98-bca5ac2abbb3"
+  },
+  "d43e4899": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:e7a4ee23-138a-4004-916e-72a452e7d115",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-11",
+   "salary": [
+    185000.0,
+    305000.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Backend Software Engineer, ChatGPT ImageGen",
+   "url": "https://jobs.ashbyhq.com/openai/e7a4ee23-138a-4004-916e-72a452e7d115"
+  },
+  "dc1ded57": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Poshmark",
+   "hidden": false,
+   "key": "ashby:poshmark:22fe890a-5c2c-4133-a91c-2e82348bc5d8",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Redwood City, California",
+    "US California (Redwood City) - Office"
+   ],
+   "posted": "2026-09-18",
+   "salary": [
+    108000.0,
+    205200.0
+   ],
+   "skills": [
+    "Python",
+    "Go",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer II, Cloud Platform",
+   "url": "https://jobs.ashbyhq.com/poshmark/22fe890a-5c2c-4133-a91c-2e82348bc5d8"
+  },
+  "e176c576": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Mercor",
+   "hidden": false,
+   "key": "ashby:mercor:415d2ee3-44b9-40e5-ab4b-04340faa3872",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-10",
+   "salary": [
+    160000.0,
+    500000.0
+   ],
+   "skills": [
+    "Python",
+    "Postgres/SQL",
+    "Redis/Kafka",
+    "Dashboards/data viz"
+   ],
+   "title": "Data Platform Engineer",
+   "url": "https://jobs.ashbyhq.com/mercor/415d2ee3-44b9-40e5-ab4b-04340faa3872"
+  },
+  "e1ca7207": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:90333510476145350",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Mountain View, CA, USA",
+    "New York, NY, USA",
+    "San Francisco, CA, USA"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    174000.0,
+    252000.0
+   ],
+   "skills": [
+    "C++",
+    "Python"
+   ],
+   "title": "Software Engineer, Anti-distillation Investigations, Enforcements and Infrastructure, DeepMind",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/90333510476145350"
+  },
+  "e303ef1c": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10534988",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA",
+    "US, CA, Santa Clara"
+   ],
+   "posted": "2026-09-09",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "SDE II EC2 Nitro, EC2 Nitro",
+   "url": "https://www.amazon.jobs/en/jobs/10534988/sde-ii-ec2-nitro-ec2-nitro"
+  },
+  "e5ce369f": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Sierra",
+   "hidden": false,
+   "key": "ashby:sierra:d2dc9baf-30d4-4708-9227-62a946b4b37e",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "New York, NY",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    180000.0,
+    390000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "REST APIs"
+   ],
+   "title": "Software Engineer, Agent - Travel & Hospitality",
+   "url": "https://jobs.ashbyhq.com/sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e"
+  },
+  "e8122bbc": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5247868007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States"
+   ],
+   "posted": "2026-09-24",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "JavaScript",
+    "Python",
+    "Go"
+   ],
+   "title": "Software Engineer, Strategic Defense",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5247868007?gh_jid=5247868007"
+  },
+  "e82fdee7": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Snowflake",
+   "hidden": false,
+   "key": "ashby:snowflake:6e96b818-2350-4601-8bdd-7ddd6c4a5f6d",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Menlo Park, California",
+    "US-CA-Menlo Park"
+   ],
+   "posted": "2026-09-25",
+   "salary": [
+    160000.0,
+    230000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "REST APIs",
+    "Postgres/SQL",
+    "AWS/GCP",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer - Postgres",
+   "url": "https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d"
+  },
+  "e88c9dc2": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Vercel",
+   "hidden": false,
+   "key": "greenhouse:vercel:6199608004",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Hybrid - San Francisco, New York City"
+   ],
+   "posted": "2026-09-17",
+   "salary": [
+    196000.0,
+    294000.0
+   ],
+   "skills": [
+    "TypeScript",
+    "JavaScript",
+    "React",
+    "Next.js",
+    "REST APIs",
+    "AWS/GCP",
+    "Distributed systems",
+    "Microservices"
+   ],
+   "title": "Software Engineer, Agentic Infrastructure",
+   "url": "https://job-boards.greenhouse.io/vercel/jobs/6199608004"
+  },
+  "e99262a5": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:127788813236740806",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-14",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Agent Cloud Rate Limiting",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/127788813236740806"
+  },
+  "ed476454": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Thumbtack",
+   "hidden": false,
+   "key": "ashby:thumbtack:f8e13e37-c559-49e1-9b52-5871ce5cf2ae",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-18",
+   "salary": [
+    151300.0,
+    229900.0
+   ],
+   "skills": [
+    "TypeScript",
+    "React",
+    "Python",
+    "Go",
+    "REST APIs",
+    "Postgres/SQL",
+    "Full-stack"
+   ],
+   "title": "Full-Stack Engineer, AI Platform",
+   "url": "https://jobs.ashbyhq.com/thumbtack/f8e13e37-c559-49e1-9b52-5871ce5cf2ae"
+  },
+  "ef24e40a": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Discord",
+   "hidden": false,
+   "key": "greenhouse:discord:8806163002",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco Bay Area",
+    "San Francisco, CA"
+   ],
+   "posted": "2026-09-15",
+   "salary": [
+    180000.0,
+    220000.0
+   ],
+   "skills": [
+    "AWS/GCP",
+    "Kubernetes/Docker",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, Distributed Systems",
+   "url": "https://job-boards.greenhouse.io/discord/jobs/8806163002"
+  },
+  "f35ac51b": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Nextdoor",
+   "hidden": false,
+   "key": "greenhouse:nextdoor:8198165",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA",
+    "US CA San Francisco - HQ",
+    "US NY New York"
+   ],
+   "posted": "2026-09-14",
+   "salary": [
+    135000.0,
+    200000.0
+   ],
+   "skills": [
+    "JavaScript",
+    "React",
+    "Python",
+    "Postgres/SQL",
+    "Full-stack"
+   ],
+   "title": "Software Engineer - Fullstack",
+   "url": "https://about.nextdoor.com/careers-list/?gh_jid=8198165"
+  },
+  "f3d086fb": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Google",
+   "hidden": false,
+   "key": "google:google:141600542223672006",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Sunnyvale, CA, USA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    147000.0,
+    210000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "REST APIs",
+    "Distributed systems",
+    "Full-stack"
+   ],
+   "title": "Software Engineer III, Diags Infrastructure",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/141600542223672006"
+  },
+  "f6d6a2fe": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10558206",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, NY, New York"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    158100.0,
+    213800.0
+   ],
+   "skills": [
+    "REST APIs",
+    "Full-stack"
+   ],
+   "title": "Software Development Engineer, Ads Experience Framework",
+   "url": "https://www.amazon.jobs/en/jobs/10558206/software-development-engineer-ads-experience-framework"
+  },
+  "fa6097cb": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Anduril",
+   "hidden": false,
+   "key": "greenhouse:andurilindustries:5244194007",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "Costa Mesa, CA (OC-00)",
+    "Costa Mesa, California, United States"
+   ],
+   "posted": "2026-09-21",
+   "salary": [
+    166000.0,
+    220000.0
+   ],
+   "skills": [
+    "C++",
+    "TypeScript",
+    "React"
+   ],
+   "title": "Software Engineer - Surface Dominance",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5244194007?gh_jid=5244194007"
+  },
+  "fb9dfa29": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "OpenAI",
+   "hidden": false,
+   "key": "ashby:openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    177000.0,
+    327000.0
+   ],
+   "skills": [
+    "C++",
+    "Python",
+    "Go",
+    "Distributed systems"
+   ],
+   "title": "Software Engineer, DevOps",
+   "url": "https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b"
+  },
+  "ff537047": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Amazon",
+   "hidden": false,
+   "key": "amazon:amazon:10557210",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "US, CA, SANTA CLARA"
+   ],
+   "posted": "2026-09-23",
+   "salary": [
+    165200.0,
+    223600.0
+   ],
+   "skills": [
+    "C++",
+    "AWS/GCP"
+   ],
+   "title": "Software Development Engineer II, PXT, HAIEX",
+   "url": "https://www.amazon.jobs/en/jobs/10557210/software-development-engineer-ii-pxt-haiex"
+  },
+  "ffd58beb": {
+   "added": "2026-09-29",
+   "closed": null,
+   "company": "Benchling",
+   "hidden": false,
+   "key": "ashby:benchling:9b850e1f-1ba8-47e3-9057-0562e0739e6f",
+   "last_seen": "2026-09-29",
+   "locations": [
+    "San Francisco, CA",
+    "San Francisco, California"
+   ],
+   "posted": "2026-09-28",
+   "salary": [
+    173369.0,
+    234557.0
+   ],
+   "skills": [
+    "React",
+    "Python",
+    "Postgres/SQL",
+    "Full-stack"
+   ],
+   "title": "Software Engineer, Full Stack (Process Execution)",
+   "url": "https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f"
+  }
+ }
+}

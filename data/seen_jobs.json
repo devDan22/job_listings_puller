@@ -229,6 +229,26 @@
   "first_seen": "2026-09-28",
   "title": "Software Development Engineer, Amazon Shopping Videos (Ads)"
  },
+ "amazon:amazon:10562998": {
+  "company": "Amazon",
+  "first_seen": "2026-09-29",
+  "title": "Software Development Engineer, AWS EC2 Nitro Team"
+ },
+ "amazon:amazon:10563000": {
+  "company": "Amazon",
+  "first_seen": "2026-09-29",
+  "title": "Software Development Engineer, AWS EC2 Nitro Team"
+ },
+ "amazon:amazon:10563004": {
+  "company": "Amazon",
+  "first_seen": "2026-09-29",
+  "title": "Software Development Engineer, AWS EC2 Nitro Team"
+ },
+ "amazon:amazon:10563008": {
+  "company": "Amazon",
+  "first_seen": "2026-09-29",
+  "title": "Software Development Engineer, AWS EC2 Nitro Team"
+ },
  "ashby:applied:6b7aacaa-32e3-4d58-93e6-7d7068f44617": {
   "company": "Applied Intuition",
   "first_seen": "2026-09-28",
@@ -259,6 +279,16 @@
   "first_seen": "2026-09-28",
   "title": "Full-Stack Software Engineer -  Command & Control"
  },
+ "ashby:benchling:9b850e1f-1ba8-47e3-9057-0562e0739e6f": {
+  "company": "Benchling",
+  "first_seen": "2026-09-29",
+  "title": "Software Engineer, Full Stack (Process Execution)"
+ },
+ "ashby:mercor:374cd009-516f-4a1f-abbf-bcca5287daae": {
+  "company": "Mercor",
+  "first_seen": "2026-09-29",
+  "title": "Software Engineer, Systems & Platform Applied AI"
+ },
  "ashby:mercor:415d2ee3-44b9-40e5-ab4b-04340faa3872": {
   "company": "Mercor",
   "first_seen": "2026-09-28",
@@ -283,6 +313,11 @@
   "company": "OpenAI",
   "first_seen": "2026-09-28",
   "title": "Software Engineer, Search Infrastructure"
+ },
+ "ashby:openai:9909555b-3dc4-4ba2-859e-43eae7c97a34": {
+  "company": "OpenAI",
+  "first_seen": "2026-09-29",
+  "title": "Software Engineer, Product Velocity"
  },
  "ashby:openai:a5dd77a2-9ab1-4165-98aa-c7bb0260985b": {
   "company": "OpenAI",

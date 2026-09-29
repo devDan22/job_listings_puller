@@ -1,14 +1,16 @@
 #!/usr/bin/env python3
 """Daily SWE job scraper.
 
-Pulls postings from the public Greenhouse, Lever and Ashby job-board APIs for
-every company in companies.json, filters them against config.json (title,
-level, CA/NY location, salary floor, skills), and reports only postings that
-have not been reported before (tracked in data/seen_jobs.json).
+Pulls postings from the public Greenhouse, Lever and Ashby job-board APIs and
+the Amazon, Google and Microsoft career sites for every company in
+companies.json, and filters them against config.json (title, level, CA/NY
+location, salary floor, skills). Each run:
+  * writes new_postings.md: matches not reported before (tracked in data/seen_jobs.json),
+  * updates board.md: every live matching posting, merged with your Status/Notes (see board.py).
 
 Usage:
-    python3 job_scraper.py            # fetch, write reports/<date>.md, update seen state
-    python3 job_scraper.py --dry-run  # fetch and print, don't touch seen state or reports
+    python3 job_scraper.py            # fetch, write new_postings.md + reports/<date>.md, update board.md
+    python3 job_scraper.py --dry-run  # fetch and print, don't write anything
 """
 
 import argparse
@@ -24,11 +26,14 @@ import urllib.parse
 import urllib.request
 from pathlib import Path
 
+import board
+
 ROOT = Path(__file__).resolve().parent
 CONFIG_PATH = ROOT / "config.json"
 COMPANIES_PATH = ROOT / "companies.json"
 SEEN_PATH = ROOT / "data" / "seen_jobs.json"
 REPORTS_DIR = ROOT / "reports"
+NEW_POSTINGS_PATH = ROOT / "new_postings.md"
 
 USER_AGENT = "job-listings-puller/1.0 (personal job search)"
 NOW = dt.datetime.now(dt.timezone.utc)
@@ -205,7 +210,9 @@ def fetch_ashby(company, matcher):
 # for postings that already pass the title/location prefilter.
 
 def _too_old(posted, matcher):
-    return posted and (NOW - posted).days > matcher.cfg["max_posting_age_days"]
+    # Look back further than the "new posting" window so that older postings
+    # still on the board are recognised as live rather than taken down.
+    return posted and (NOW - posted).days > matcher.cfg.get("live_lookback_days", 120)
 
 
 AMAZON_PAY_RE = re.compile(r"([^<>\n]{0,80}?)\b(\d{1,3}(?:,\d{3})+)(?:\.\d+)? - (\d{1,3}(?:,\d{3})+)(?:\.\d+)? USD annually")
@@ -326,7 +333,7 @@ ADAPTERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch
 
 
 def fetch_all(companies, matcher):
-    jobs, failures = [], []
+    jobs, failures, failed_names = [], [], set()
 
     def run(c):
         return c, ADAPTERS[c["ats"]](c, matcher)
@@ -344,7 +351,8 @@ def fetch_all(companies, matcher):
                 jobs.extend(js)
             except Exception as e:
                 failures.append(f"{c['name']} ({c['ats']}/{c['slug']}): {e}")
-    return jobs, failures
+                failed_names.add(c["name"])
+    return jobs, failures, failed_names
 
 
 # --------------------------------------------------------------------------- #
@@ -450,8 +458,8 @@ def render_report(new_jobs, stats, failures, today):
     if not new_jobs:
         lines.append("_No new matching postings today._")
     else:
-        lines.append("| # | Company | Role | Location | Salary | Posted | Skill match |")
-        lines.append("|---|---|---|---|---|---|---|")
+        lines.append("| # | Company | Role | Location | Salary | Posted | Skill match | ID |")
+        lines.append("|---|---|---|---|---|---|---|---|")
         for i, j in enumerate(new_jobs, 1):
             lo, hi = j["salary"]
             locs = "; ".join(j["matched_locations"][:3])
@@ -459,7 +467,10 @@ def render_report(new_jobs, stats, failures, today):
             skills = ", ".join(j["skills"][:6])
             title = j["title"].replace("|", "/")
             lines.append(f"| {i} | {j['company']} | [{title}]({j['url']}) | {locs} | "
-                         f"{fmt_money(lo)}–{fmt_money(hi)} | {posted} | {skills} |")
+                         f"{fmt_money(lo)}–{fmt_money(hi)} | {posted} | {skills} | `{board.job_id(j['key'])}` |")
+    lines += ["", f"All live matches, with your application status, are in [board.md](board.md) "
+                  f"({stats['board_open']} open, {stats['board_tracking']} tracking).",
+              ]
     if failures:
         lines += ["", f"<details><summary>{len(failures)} boards failed to load</summary>", ""]
         lines += [f"- {f}" for f in sorted(failures)]
@@ -476,7 +487,7 @@ def main():
     companies = json.loads(COMPANIES_PATH.read_text())
     matcher = Matcher(cfg)
 
-    jobs, failures = fetch_all(companies, matcher)
+    jobs, failures, failed_names = fetch_all(companies, matcher)
     matches, seen_keys = [], set()
     for j in jobs:
         if j["key"] in seen_keys:
@@ -500,18 +511,33 @@ def main():
     today = NOW.astimezone(pacific_tz()).date().isoformat()
     stats = {"jobs": len(jobs), "companies": len(companies) - len(failures), "matches": len(matches),
              "min_salary": cfg["min_salary_usd"], "max_age": cfg["max_posting_age_days"]}
-    report = render_report(new_jobs, stats, failures, today)
-    print(report)
 
     if args.dry_run:
+        state = board.load_state()
+        stats["board_open"] = stats["board_tracking"] = "?"
+        print(render_report(new_jobs, stats, failures, today))
         return 0
+
+    state = board.load_state()
+    added, closed, removed, board_written = board.update(state, matches, seen_keys, failed_names, today)
+    board.save_state(state)
+    fields, _, _ = board.parse_board()
+    visible = [jid for jid, j in state["jobs"].items() if not j.get("hidden") and not j.get("closed")]
+    stats["board_tracking"] = sum(1 for jid in visible if board.is_tracking(fields.get(jid, {}).get("status", "")))
+    stats["board_open"] = sum(1 for jid in visible if not fields.get(jid, {}).get("status", "").strip())
+    report = render_report(new_jobs, stats, failures, today)
+    if not board_written:
+        report += ("\n**Warning:** board.md has no job rows the scraper can read, so it was left unchanged "
+                   "to protect your edits. Restore it from git history and the next run will update it.\n")
+    print(report)
+    print(f"Board: {len(added)} added, {removed} taken down and removed, {len(closed)} moved to closed.")
 
     for m in new_all:
         seen[m["key"]] = {"first_seen": today, "company": m["company"], "title": m["title"]}
     save_seen(seen, cfg)
     REPORTS_DIR.mkdir(exist_ok=True)
     (REPORTS_DIR / f"{today}.md").write_text(report)
-    (REPORTS_DIR / "latest.md").write_text(report)
+    NEW_POSTINGS_PATH.write_text(report)
     return 0
 
 

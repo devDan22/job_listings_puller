@@ -1,6 +1,7 @@
 {
   "min_salary_usd": 200000,
   "max_posting_age_days": 21,
+  "live_lookback_days": 120,
   "max_years_experience_required": 6,
 
   "title_include": [
